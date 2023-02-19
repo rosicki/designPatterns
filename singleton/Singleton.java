@@ -1,3 +1,5 @@
+package singleton;
+
 public final class Singleton {
     // The field must be declared volatile so that double check lock would work
     // correctly.
